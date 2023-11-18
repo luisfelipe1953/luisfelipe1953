@@ -3,15 +3,15 @@
 
 - 🌱 Me encuentro aprendiendo **AWS, Docker**
 
-- 👯 Actualmente me encuentro colaborando en NoCountry [MercadoLibre Clone](https://github.com/No-Country/s8-05-php-mercadolibre)
+- 👯 Actualmente me encuentro trabajando en una Erp kardex y facturacion electronica
 
 - 👨‍💻 Todos mis proyectos están disponibles en [luisfelipe1953.github.io/FELIPORTA/](luisfelipe1953.github.io/FELIPORTA/)
 
-- 💬 Preguntame sobre **XAMPP, PHP, Laravel, Javascript, VueJs,Tailwind**
+- 💬 Preguntame sobre **XAMPP, PHP, Laravel, Javascript, VueJs,Tailwind, nodejs, Docker**
 
 - 📫 Como llegar a mí **luisfelipefernandezbetancur@gmail.com**
 
-- 📄 Conoce más sobre mis experiencias [https://drive.google.com/file/d/1OYmYpoheZBLkvl1UxoGnteXrxEbLI7Ew/view?usp=sharing](https://drive.google.com/file/d/1OYmYpoheZBLkvl1UxoGnteXrxEbLI7Ew/view?usp=sharing)
+- 📄 Conoce más sobre mis experiencias [[https://drive.google.com/file/d/1OYmYpoheZBLkvl1UxoGnteXrxEbLI7Ew/view?usp=sharing](https://drive.google.com/file/d/1OYmYpoheZBLkvl1UxoGnteXrxEbLI7Ew/view?usp=sharing)](https://docs.google.com/document/d/1CRv8mubhDm-SV1bUIadkbUUh93WnUerWL58oGPBPFTk/edit?pli=1)
 
 - ⚡ Datos Curiosos **Amo programar y ir al gym**
 
