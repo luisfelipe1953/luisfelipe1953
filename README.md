@@ -13,7 +13,7 @@
 
 - 📄 Conoce más sobre mis experiencias [[https://drive.google.com/file/d/1OYmYpoheZBLkvl1UxoGnteXrxEbLI7Ew/view?usp=sharing](https://drive.google.com/file/d/1OYmYpoheZBLkvl1UxoGnteXrxEbLI7Ew/view?usp=sharing)](https://docs.google.com/document/d/1CRv8mubhDm-SV1bUIadkbUUh93WnUerWL58oGPBPFTk/edit?pli=1)
 
-- ⚡ Datos Curiosos **Amo programar y ir al gym**
+- ⚡ Datos Curiosos **Amo programar y el gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
