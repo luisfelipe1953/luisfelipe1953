@@ -3,8 +3,7 @@
 
 - 📫 Como llegar a mí **luisfelipefernandezbetancur@gmail.com**
 
-- 📄 Conoce más sobre mis experiencias [[https://drive.google.com/file/d/1OYmYpoheZBLkvl1UxoGnteXrxEbLI7Ew/view?usp=sharing](https://drive.google.com/file/d/1OYmYpoheZBLkvl1UxoGnteXrxEbLI7Ew/view?usp=sharing)](https://docs.google.com/document/d/1CRv8mubhDm-SV1bUIadkbUUh93WnUerWL58oGPBPFTk/edit?pli=1)
-
+- 📄 Conoce más sobre mis experiencias https://drive.google.com/file/d/1PkAbfwaNK7oxOn3BNYe1XVIk8MfewSah/view?usp=sharing
 - ⚡ Datos Curiosos **Amo programar y el gym**
 
 <h3 align="left">Connect with me:</h3>
