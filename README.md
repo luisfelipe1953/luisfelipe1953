@@ -2,8 +2,8 @@
 <h3 align="center">Un apasionado desarrollador de Backend</h3>
 
 - 📫 Como llegar a mí **luisfelipefernandezbetancur@gmail.com**
-
 - 📄 Conoce más sobre mis experiencias https://drive.google.com/file/d/1PkAbfwaNK7oxOn3BNYe1XVIk8MfewSah/view?usp=sharing
+- 🤵🏻 Tambien uso Azure **luisfelipefernandezbetancur@hotmail.com**
 - ⚡ Datos Curiosos **Amo programar y el gym**
 
 <h3 align="left">Connect with me:</h3>
