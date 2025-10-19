@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luis Felipe Fernandez</h1>
-<h3 align="center">Un apasionado desarrollador de Laravel</h3>
-
-- 🌱 Me encuentro aprendiendo **AWS, Docker**
-
-- 👯 Actualmente me encuentro trabajando en una Erp kardex y facturacion electronica
-
-- 👨‍💻 Todos mis proyectos están disponibles en [luisfelipe1953.github.io/FELIPORTA/](luisfelipe1953.github.io/FELIPORTA/)
-
-- 💬 Preguntame sobre **XAMPP, PHP, Laravel, Javascript, VueJs,Tailwind, nodejs, Docker**
+<h3 align="center">Un apasionado desarrollador de Backend</h3>
 
 - 📫 Como llegar a mí **luisfelipefernandezbetancur@gmail.com**
 
