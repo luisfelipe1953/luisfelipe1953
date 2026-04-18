@@ -52,6 +52,7 @@ Specialist in **multi-provider API integrations** (47 vendors, 28+ certified) fo
 | Project | Description | Stack |
 |---|---|---|
 | **Octopus Platform** | B2B travel aggregator — 28+ certified providers, 7 verticals | Laravel, Redis, PostgreSQL, Docker |
+| **Wontmedia Platform** | Subscription platform with biometric age verification (VerifyMe API), geo-blocking (5 EU + 23 US states), recurring billing integrations (CCBill, SegPay, Epoch, NetBilling) and CMS management (NATS + ElevatedX) | PHP, MySQL, NATS, FFmpeg |
 | **Hotel Intelligence Score** | Automated hotel reputation scoring via scraping + AI sentiment analysis | Laravel, Apify, OpenAI API |
 | **Hotel Mapping Tool** | Unified 1M+ hotels from multiple providers — duplicates 30%→5% | Laravel, Levenshtein, Haversine |
 | **DIAN ERP** | Electronic invoicing for 500+ invoices/day, multi-company | Laravel, PostgreSQL |
