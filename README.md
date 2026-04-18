@@ -1,17 +1,66 @@
-<h1 align="center">Hi 👋, I'm Luis Felipe Fernandez</h1>
-<h3 align="center">Un apasionado desarrollador de Backend</h3>
+# Hi 👋, I'm Felipe Betancur
 
-- 📫 Como llegar a mí **luisfelipefernandezbetancur@gmail.com**
-- 📄 Conoce más sobre mis experiencias https://drive.google.com/file/d/1PkAbfwaNK7oxOn3BNYe1XVIk8MfewSah/view?usp=sharing
-- 🤵🏻 Tambien uso Azure **luisfelipefernandezbetancur@hotmail.com**
-- ⚡ Datos Curiosos **Amo programar y el gym**
+### Backend Developer · PHP/Laravel · API Integrations · AI Automation
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luis-felipe-fernández-betancur-474639267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-felipe-fernández-betancur-474639267" height="30" width="40" /></a>
-<a href="https://instagram.com/felipe_.betancur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipe_.betancur" height="30" width="40" /></a>
-</p>
+🌎 Montería, Colombia · Open to remote opportunities
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 About Me
+
+Backend developer with 3+ years building high-demand systems in PHP/Laravel.  
+Specialist in **multi-provider API integrations** (47 vendors, 28+ certified) for B2B travel platforms processing **50K+ searches/day**.
+
+- 🔭 Currently building **Octopus Platform** — a multi-provider B2B travel aggregator (hotels, flights, tours, transfers, rent-a-car, insurance)
+- 🤖 Building AI-powered tools with **Claude API, OpenAI, Grok** — from hotel reputation scoring to workflow automation
+- ⚡ Reduced platform latency from **8s → 1.2s** and queries from **150 → 12** through caching and query optimization
+- 🗺️ Built a **Hotel Mapping Tool** that unified 1M+ hotels using Levenshtein + Haversine algorithms
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**AI & Automation**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat)
+![Apify](https://img.shields.io/badge/Apify-00B277?style=flat)
+
+**Data & Cache**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+**Frontend**
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat)
+
+---
+
+## 📌 Notable Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Octopus Platform** | B2B travel aggregator — 28+ certified providers, 7 verticals | Laravel, Redis, PostgreSQL, Docker |
+| **Hotel Intelligence Score** | Automated hotel reputation scoring via scraping + AI sentiment analysis | Laravel, Apify, OpenAI API |
+| **Hotel Mapping Tool** | Unified 1M+ hotels from multiple providers — duplicates 30%→5% | Laravel, Levenshtein, Haversine |
+| **DIAN ERP** | Electronic invoicing for 500+ invoices/day, multi-company | Laravel, PostgreSQL |
+| **Public Billing System** | Multi-tenant billing for 3 municipalities, 50K receipts/month | Laravel, Livewire, DomPDF |
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luisfelipefernandezbetancur@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://luisfelipe1953.github.io/FELIPORTA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
